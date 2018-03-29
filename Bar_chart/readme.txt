@@ -1,0 +1,1 @@
+Basic bar chart created as an assignment for course Data Visualization at UvA. Years can be changed by arrows.
